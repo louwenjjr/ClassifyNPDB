@@ -6,16 +6,12 @@ Email: oscarhoekstra@wur.nl
 Description: Configuration file for my pipeline.
     Edit anything after the colon or between the single quotes to
     run the pipeline with your own settings and files.
-
-
-Edited by Joris Louwen (joris.louwen@wur.nl) to run this pipeline
-with a newest (2.0) version of mibig.
 """
 import time
 
 
 def Settings():
-    Workbase = '/mnt/scratch/louwe015/NPLinker/classifying/ClassifyNPDB/'
+    Workbase = '/mnt/scratch/hoeks102/Thesis_Bsc/4Workbase/ClassifyNPDB/'
     ScriptFolder = Workbase+'Scripts/'
     InFilesFolder = Workbase+'InFiles/'
     Start = time.time()
@@ -26,7 +22,7 @@ def Settings():
         # Add a number to this set to skip that step of the pipeline.
         # Step 1 can not be skipped as its necessary for further steps
         # and it is also really short.
-        "SkipSteps": (0,2,3,4,5,6,7),
+        "SkipSteps": (0,2,3,4,5,6),
 
         # The amount of BGCs that should be missing before the script will
         # assume it is at the end and stop:
