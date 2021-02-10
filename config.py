@@ -84,7 +84,7 @@ def Settings():
 
         # Name of the secondary inchi-key to try if first one failed.
         # Set this to false to skip this step.
-        "BackupInchiKey": 'inchi_key_rdkit'
+        "BackupInchiKey": 'inchi_key_rdkit',
 
 
 # Settings about the (to be created) MIBiG table in the SQL database.
