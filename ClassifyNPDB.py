@@ -68,16 +68,18 @@ if __name__ == "__main__":
     except:
         print("ClassyFireJsonFiles already exists.")
 
-
-    # Can not skip step 1, NPDB_IDs is necessary for other steps
+    # joris: skip step one as NPDatabase functions are not useful for me
+    NPDB_IDs = []
+    if 1 not in SkipSteps:
+        # Can not skip step 1, NPDB_IDs is necessary for other steps
 #1 Get a list with all IDs present in the NPDB
-    print("__Starting Step 1__")
-    PrintTime()
-    NPDB_IDs = GetSqlIDs.main(cfg['SQLPath'],
-                              cfg['NPDBtable'],
-                              cfg['structure_id'])
-    Interval,start = interval(start)
-    print("Step 1 took "+Interval)
+        print("__Starting Step 1__")
+        PrintTime()
+        NPDB_IDs = GetSqlIDs.main(cfg['SQLPath'],
+                                  cfg['NPDBtable'],
+                                  cfg['structure_id'])
+        Interval,start = interval(start)
+        print("Step 1 took "+Interval)
 
 
     if 2 not in SkipSteps:
