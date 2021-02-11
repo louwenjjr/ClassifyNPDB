@@ -130,11 +130,11 @@ def main(sqlite_file, table_name, IDcolumn = 'column_id', CompoundDict = None, F
             JsonDict = r.json() # Translate the json to a dictionary.
             CompoundInJson = 0 # Counter to find out how many compounds are in a BGC
             # For each compound in each json/dict
-            for compound in JsonDict['general_params']['compounds']:
+            for compound in JsonDict['cluster']['compounds']:
                 # If one of the jsons is formatted incorrectly or is missing
                 # a crucial value we do not want the whole script to error.
                 try:
-                    GP = JsonDict['general_params']
+                    GP = JsonDict['cluster']
                     MIBIGaccession = GP['mibig_accession']
                     CompoundName = compound.get('compound','NA')
                     try:
