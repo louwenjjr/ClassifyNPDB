@@ -1,0 +1,65 @@
+MIBiG accession	compound name	SMILES	PMID / DOI	Added_from
+BGC0001846	valinomycin	CC1C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)O1)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C	10.1002/slct.201900922	https://pubchem.ncbi.nlm.nih.gov/compound/441139#section=Canonical-SMILES
+BGC0001846	montanastatin	CC1C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)O1)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C	10.1002/slct.201900922	https://pubchem.ncbi.nlm.nih.gov/compound/193490#section=Canonical-SMILES
+BGC0001848	diazaquinomycin H	CC1=CC(=O)NC2=C1C(=O)C3=C(C2=O)NC(=O)C=C3CCCCCCC(C)C	10.1021/acs.jnatprod.8b00394,10.1021/acsinfecdis.5b00005,30896942	https://pubchem.ncbi.nlm.nih.gov/compound/134815171#section=Canonical-SMILES
+BGC0001848	diazaquinomycin J	CC1=CC(=O)NC2=C1C(=O)C3=C(C2=O)NC(=O)C=C3CCCCCCCC(C)C	10.1021/acs.jnatprod.8b00394,10.1021/acsinfecdis.5b00005,30896942	https://pubchem.ncbi.nlm.nih.gov/compound/134815172#section=Canonical-SMILES
+BGC0001850	diazaquinomycin A	CCCC1=C(C(=O)NC2=C1C(=O)C3=C(C2=O)NC(=O)C(=C3CCC)C)C	10.3390/md12063574,10.1016/S0040-4039(00)88190-3,30896942	https://pubchem.ncbi.nlm.nih.gov/compound/122105#section=Canonical-SMILES
+BGC0001850	diazaquinomycin E	CCCCCC1=CC(=O)NC2=C1C(=O)C3=C(C2=O)NC(=O)C=C3CCCCC	10.3390/md12063574,10.1016/S0040-4039(00)88190-3,30896942	https://pubchem.ncbi.nlm.nih.gov/compound/134814868#section=Canonical-SMILES
+BGC0001851	komodoquinone B	CC1(CC(C2=C(C1)C(=C3C(=C2O)C(=O)C4=C(C3=O)C=CC=C4O)O)O)O	30995392	https://pubchem.ncbi.nlm.nih.gov/compound/10021147#section=Canonical-SMILES
+BGC0001852	komodoquinone B	CC1(CC(C2=C(C1)C(=C3C(=C2O)C(=O)C4=C(C3=O)C=CC=C4O)O)O)O	30995392	https://pubchem.ncbi.nlm.nih.gov/compound/10021147#section=Canonical-SMILES
+BGC0001856	caniferolide A	CCC(C(C)C(C(C)C(C(C)C1C(C2C(O2)C(CCCC(CC(CC(CC3CC(C(C(O3)(C(=O)C(C(CCC(CCCC(CC(C(C=CC(=O)O1)C)O)O)O)C)O)O)O)OS(=O)(=O)O)O)O)O)O)C)O)O)OC4CC(C(C(O4)C)OC5CCC(C(O5)C)OC(=O)C(C)C(C6=CC7=C(C=C6)C(=O)C(=CC7=O)C)O)(C)O	30806648	https://pubchem.ncbi.nlm.nih.gov/compound/Caniferolide-A#section=Canonical-SMILES
+BGC0001856	caniferolide B	CCC(C(C)C(C(C)C(C(C)C1C(C2C(O2)C(CCCC(CC(CC(CC3CC(C(C(O3)(C(=O)C(C(CCC(CCCC(CC(C(C=CC(=O)O1)C)O)O)O)C)O)O)O)O)O)O)O)O)C)O)O)OC4CC(C(C(O4)C)OC5CCC(C(O5)C)OC(=O)C(C)C(C6=CC7=C(C=C6)C(=O)C(=CC7=O)C)O)(C)O	30806648	https://pubchem.ncbi.nlm.nih.gov/compound/Caniferolide-B#section=Canonical-SMILES
+BGC0001856	caniferolide C	CCC(C(C)C(C(C)C(C(C)C1C(C2C(O2)C(CCCC(CC(CC(CC3CC(CC(O3)(C(=O)C(C(CCC(CCCC(CC(C(C=CC(=O)O1)C)O)O)O)C)O)O)O)O)O)O)O)C)O)O)OC4CC(C(C(O4)C)OC5CCC(C(O5)C)OC(=O)C(C)C(C6=CC7=C(C=C6)C(=O)C(=CC7=O)C)O)(C)O	30806648	https://pubchem.ncbi.nlm.nih.gov/compound/Caniferolide-C#section=Canonical-SMILES
+BGC0001856	caniferolide D	CCC(C(C)C(C(C)C(C(C)C1C(C2C(O2)C(CCCC(CC(CC(CC3CC(C(C(O3)(C(=O)CC(CCC(CCCC(CC(C(C=CC(=O)O1)C)O)O)O)C)O)O)OS(=O)(=O)O)O)O)O)O)C)O)O)OC4CC(C(C(O4)C)OC5CCC(C(O5)C)OC(=O)C(C)C(C6=CC7=C(C=C6)C(=O)C(=CC7=O)C)O)(C)O	30806648	https://pubchem.ncbi.nlm.nih.gov/compound/Caniferolide-D#section=Canonical-SMILES
+BGC0001859	fosfomycin	CC1C(O1)P(=O)(O)O	22615277,27977135,7492106,18656958,3759643	https://pubchem.ncbi.nlm.nih.gov/compound/446987#section=Canonical-SMILES
+BGC0001868	iodinin	C1=CC2=C(C(=C1)O)[N+](=C3C=CC=C(C3=[N+]2[O-])O)[O-]	30886436	https://pubchem.ncbi.nlm.nih.gov/compound/135441735#section=Canonical-SMILES
+BGC0001870	putrebactin	C1CCN(C(=O)CCC(=O)NCCCCN(C(=O)CCC(=O)NC1)O)O	28654175	https://pubchem.ncbi.nlm.nih.gov/compound/16654915#section=Canonical-SMILES
+BGC0001870	avaroferrin	C1CCNC(=O)CCC(=O)N(CCCCNC(=O)CCC(=O)N(CC1)O)O	28654175	https://pubchem.ncbi.nlm.nih.gov/compound/102234583#section=Canonical-SMILES
+BGC0001874	cyclopiazonic acid	CC(=O)C1=C(C2C3C(CC4=C5C3=CNC5=CC=C4)C(N2C1=O)(C)C)O	22285533,19038354	https://pubchem.ncbi.nlm.nih.gov/compound/54682463#section=Canonical-SMILES
+BGC0001881	pyrichalasin H	CC1CC=CC2C(C(=C)C(C3C2(C(C=CC(C1)(C)O)OC(=O)C)C(=O)NC3CC4=CC=C(C=C4)OC)C)O	31099577	https://pubchem.ncbi.nlm.nih.gov/compound/6442793#section=Canonical-SMILES
+BGC0001882	chrysoxanthone A	CC1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)OC(CC5=O)(C6C(CC(=O)O6)C)C(=O)OC)O)OC2(C1O)C(=O)OC)O	10.3390/md1610035	https://pubchem.ncbi.nlm.nih.gov/compound/Chrysoxanthone-A#section=Canonical-SMILES
+BGC0001882	chrysoxanthone B	CC1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)OC(CC5=O)(C6C(CC(=O)O6)C)C(=O)OC)O)OC2(C1O)C(=O)OC)O	10.3390/md1610035	https://pubchem.ncbi.nlm.nih.gov/compound/Chrysoxanthone-B#section=Canonical-SMILES
+BGC0001882	chrysoxanthone C	CC1CC(=O)C2=C(C3=C(C=CC(=C3O)C4=C(C5=C(C=C4)OC(CC5=O)(C6C(CC(=O)O6)C)C(=O)OC)O)OC2(C1O)C(=O)OC)O	10.3390/md1610035	https://pubchem.ncbi.nlm.nih.gov/compound/Chrysoxanthone-C#section=Canonical-SMILES
+BGC0001883	porphyra-334	CC(C(C(=O)O)N=C1CC(CC(=C1OC)NCC(=O)O)(CO)O)O	29898658	https://pubchem.ncbi.nlm.nih.gov/compound/137225557#section=Canonical-SMILES
+BGC0001884	aranazole A	CCC(CC(C=CC1C(O1)C(C(C(CC2C(C(OCO2)C(C3=NC(=CS3)C(=O)C)O)C)Cl)Cl)Cl)Cl)Cl	30141631	https://pubchem.ncbi.nlm.nih.gov/compound/Aranazole-A#section=Canonical-SMILES
+BGC0001884	aranazole B	CCC(CC(C=CC(C(C(C(C(CC1C(C(OCO1)C(C2=NC(=CS2)C(=O)C)O)C)Cl)Cl)Cl)O)Cl)Cl)Cl	30141631	https://pubchem.ncbi.nlm.nih.gov/compound/Aranazole-B#section=Canonical-SMILES
+BGC0001884	aranazole C	CCC(CC(C=CC(C(C(C(C(CC1C(C(OCO1)C(C2=NC(=CS2)C(=O)C)OC)C)Cl)Cl)Cl)O)Cl)Cl)Cl	30141631	https://pubchem.ncbi.nlm.nih.gov/compound/Aranazole-C#section=Canonical-SMILES
+BGC0001884	aranazole D	CCC(CC=CC(C1C(O1)C(C(C(CC2C(C(OCO2)C(C3=NC(=CS3)C(=O)C)OC)C)Cl)Cl)Cl)O)Cl	30141631	https://pubchem.ncbi.nlm.nih.gov/compound/Aranazole-D#section=Canonical-SMILES
+BGC0001891	closthioamide	C1=CC(=CC=C1C(=S)NCCC(=S)NCCC(=S)NCCCNC(=S)CCNC(=S)CCNC(=S)C2=CC=C(C=C2)O)O	10.1002/anie.20180797	https://pubchem.ncbi.nlm.nih.gov/compound/135937227#section=Canonical-SMILES
+BGC0001892	botcinic acid	CCCCC(C=CC(=O)OC1C(C(C(OC1C)(C)C(C(C)C(=O)O)O)O)C)O	30848345	https://pubchem.ncbi.nlm.nih.gov/compound/11509607#section=InChI-Key
+BGC0001893	abscisic acid	CC1=CC(=O)CC(C1(C=CC(=CC(=O)O)C)O)(C)C	29708647	https://pubchem.ncbi.nlm.nih.gov/compound/5375199#section=Canonical-SMILES
+BGC0001896	carbazomycin B	CC1=C(C(=C(C2=C1NC3=CC=CC=C32)O)OC)C	10.1007/s00284-019-01711-	https://pubchem.ncbi.nlm.nih.gov/compound/166449#section=Canonical-SMILES
+BGC0001897	cepacin A	C#CC#CC=C=CC1C(O1)C(C=CC2CCC(=O)O2)O	30833726	https://pubchem.ncbi.nlm.nih.gov/compound/139589038#section=Canonical-SMILES
+BGC0001898	thioplatensimycin	CC12CC34CC1CC(C3C(C(=O)C=C4)(C)CCC(=O)NC5=C(C=CC(=C5O)C(=O)S)O)O2	29915173	https://pubchem.ncbi.nlm.nih.gov/compound/Thioplatensimycin#section=Canonical-SMILES
+BGC0001898	thioplatencin	CC1(C2CC3CCC2(CC3=C)C=CC1=O)CCC(=O)NC4=C(C=CC(=C4O)C(=O)S)O	29915173	https://pubchem.ncbi.nlm.nih.gov/compound/Thioplatencin#section=Canonical-SMILES
+BGC0001899	abscisic acid	CC1=CC(=O)CC(C1(C=CC(=CC(=O)O)C)O)(C)C	31034868	https://pubchem.ncbi.nlm.nih.gov/compound/5375199#section=Canonical-SMILES
+BGC0001900	fragin	CCCCCCCC(=O)NCC(C(C)C)[N+](=NO)[O-]	29602945	https://pubchem.ncbi.nlm.nih.gov/compound/135502789#section=Canonical-SMILES
+BGC0001902	bengamide	CC(C)C=CC(C(C(C(C(=O)NC1CCCCNC1=O)OC)O)O)O	26514647	https://pubchem.ncbi.nlm.nih.gov/compound/6444155#section=Canonical-SMILES
+BGC0001903	neocarazostatin A	CC1=C(C2=C(C3=C(N2)C=CC(=C3)CC=C(C)C)C(=C1OC)O)C(C(C)O)O	26670080	https://pubchem.ncbi.nlm.nih.gov/compound/126263#section=Canonical-SMILES
+BGC0001905	violapyrone B	CC1=C(C=C(OC1=O)CCCCC(C)C)O	29650021	https://pubchem.ncbi.nlm.nih.gov/compound/Presuficidin-A#section=Canonical-SMILES
+BGC0001906	naphthalene	C1=CC=C2C=CC=CC2=C1	30746075	https://pubchem.ncbi.nlm.nih.gov/compound/Naphthalene#section=Canonical-SMILES
+BGC0001907	chromane	C1CC2=CC=CC=C2OC1	30746075	https://pubchem.ncbi.nlm.nih.gov/compound/Chromane#section=Canonical-SMILES
+BGC0001908	sceliphrolactam	CC1CNC(=O)C=C(C=CC(=CC=CC(C(C(C(=O)C=CC=CC(=CC=CC=C1)C)O)O)O)C)O	29371699	https://pubchem.ncbi.nlm.nih.gov/compound/Sceliphrolactam#section=Canonical-SMILES
+BGC0001910	cyslabdan	CC(=CCC1C2(CCCC(C2CC(C1(CSCC(C(=O)O)NC(=O)C)O)O)(C)C)C)C=C	26507838	https://pubchem.ncbi.nlm.nih.gov/compound/24778014#section=Canonical-SMILES
+BGC0001911	raimonol	CC(=CCC1C(=C)C(CC2C1(CCCC2(C)C)C)O)C=C	26507838	https://pubchem.ncbi.nlm.nih.gov/compound/102297697#section=Canonical-SMILES
+BGC0001912	(2S,6R)-diamino-(5R,7)-dihydroxy-heptanoic acid	C(CC(C(=O)O)N)C(C(CO)N)O	28288097	https://pubchem.ncbi.nlm.nih.gov/compound/121514024#section=Canonical-SMILES
+BGC0001913	phomoidride	CC=CCCCCCC1C=C2C3(CC4=C(C(C1CC(C(=O)CCC=CC)O)C2(OC3=O)O)C(=O)OC4=O)CC(=O)O	26558485,10.1021/acs.orglett.5b0293	https://pubchem.ncbi.nlm.nih.gov/compound/101090887#section=Canonical-SMILES
+BGC0001914	JBIR-67	CC(=CCCC(C)(C1CC2=C(N1)C=CC(=C2)C(=O)O)O)C	29716187	https://pubchem.ncbi.nlm.nih.gov/compound/52951788#section=Canonical-SMILES
+BGC0001914	virantmycin	CC(=C(C)CCC1(C(CC2=C(N1)C=CC(=C2)C(=O)O)Cl)COC)C	29716187	https://pubchem.ncbi.nlm.nih.gov/compound/100206#section=Canonical-SMILES
+BGC0001916	lavendiol	CC=CC=CC=CC(=O)C(C)C(CCO)O	29255990	https://pubchem.ncbi.nlm.nih.gov/compound/Lavendiol#section=Canonical-SMILES
+BGC0001918	JBIR-06	CCC(C)C1C(=O)OC(C(=O)C(C(=O)OC(C(C(=O)O1)NC(=O)C2=C(C(=CC=C2)NC=O)O)C)(C)C)CC(C)C	30166552	https://pubchem.ncbi.nlm.nih.gov/compound/Antibiotic-JBIR-06#section=Canonical-SMILES
+BGC0001919	neoantimycin	CCC(C)C1C(=O)OC(C(C(=O)OC(C(=O)OC(C(C(C(=O)O1)(C)C)O)CC2=CC=CC=C2)C(C)C)NC(=O)C3=C(C(=CC=C3)NC=O)O)C	30166552	https://pubchem.ncbi.nlm.nih.gov/compound/585842#section=Canonical-SMILES
+BGC0001920	siamycin I	CCC(C)C1C(=O)NC(C(=O)NC(CSSCC2C(=O)NC(C(=O)NC3CC(=O)NC(CSSCC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)N1)C)CC4=CC=C(C=C4)O)NC(=O)CNC(=O)C(NC(=O)C(NC3=O)CC5=CC=CC=C5)C)C(=O)NC(C(=O)NCC(=O)NC(C(=O)NCC(=O)NC(C(=O)N2)CO)C(C)C)CC(C)C)CC(=O)N)C(=O)NC(CC6=CC=CC=C6)C(=O)NC(CC7=CNC8=CC=CC=C87)C(=O)O)C(C)C	29974638	https://pubchem.ncbi.nlm.nih.gov/compound/16130275#section=Canonical-SMILES
+BGC0001923	ascochlorin	CC1CCC(=O)C(C1(C)C=CC(=CCC2=C(C(=C(C(=C2O)Cl)C)C=O)O)C)C	30952781	https://pubchem.ncbi.nlm.nih.gov/compound/11258227#section=Canonical-SMILES
+BGC0001924	ascofuranone	CC1=C(C(=C(C(=C1Cl)O)CC=C(C)CCC=C(C)C2CC(=O)C(O2)(C)C)O)C=O	30952781	https://pubchem.ncbi.nlm.nih.gov/compound/6434242#section=Canonical-SMILES
+BGC0001925	altemicidin	CN1CC2C(CC(C2(C(=O)O)NC(=O)CS(=O)(=O)N)O)C(=C1)C(=O)N	30643149	https://pubchem.ncbi.nlm.nih.gov/compound/11036174#section=Canonical-SMILES
+BGC0001925	SB-203207	CCC(C)C(C(=O)NS(=O)(=O)CC(=O)NC1(C(CC2C1CN(C=C2C(=O)N)C)O)C(=O)O)N	30643149	https://pubchem.ncbi.nlm.nih.gov/compound/9957177#section=Canonical-SMILES
+BGC0001925	SB-203208	CCC(C)C(C(=O)NS(=O)(=O)CC(=O)NC1(C(CC2C1CN(C=C2C(=O)N)C)OC(=O)C(C(C)C3=CC=CC=C3)N)C(=O)O)N	30643149	https://pubchem.ncbi.nlm.nih.gov/compound/10628031#section=Canonical-SMILES
+BGC0001926	chrodrimanin B	CC1C(C2=C(C(=CC3=C2CC4C5(C=CC(=O)C(C5CC(C4(O3)C)O)(C)C)C)O)C(=O)O1)O	10.1021/acs.orglett.8b0326	https://pubchem.ncbi.nlm.nih.gov/compound/101565497#section=Canonical-SMILES
+BGC0001927	A-94964	CCC(C)CCCCCCCC(C)C=C(C)C=CC(=O)NCC(=O)NC1C(C(C(OC1OP(=O)(O)OC(C(CC2C(C(C(O2)N3C=CC(=O)NC3=O)O)O)OC4C(C(C(C(O4)CO)O)O)O)C(=O)O)CO)O)O	30570639	https://pubchem.ncbi.nlm.nih.gov/compound/102034703#section=Canonical-SMILES
+BGC0001928	(2R,3S,4S)-5-fluoro-2,3,4-trihydroxypentanoic acid	C(C(C(C(C(=O)O)O)O)O)F	29861965	https://pubchem.ncbi.nlm.nih.gov/compound/122225563#section=Canonical-SMILES
+BGC0001932	mediomiycin A	CC(C=CCCC=CC=CC=C(C)C(=O)O)C(C(C)C(C=CC=CC=CC=CC=CC=CCC(C(C)C(=O)CC(CC(C=CCC(CC(CC(C=CCC(CC(C=CCC(CC(CCCN)O)O)O)O)O)O)O)O)O)OS(=O)(=O)O)O)O	29349495	https://pubchem.ncbi.nlm.nih.gov/compound/70697904#section=Canonical-SMILES
+BGC0001933	sphaerocyclamide	CC1C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2CCCC2C(=O)N1)CC3=CC=CC=C3)CC4=CC=C(C=C4)OCC=C(C)C)CO)C(C)C)CCC(=O)N	30266955	https://pubchem.ncbi.nlm.nih.gov/compound/146683708#section=Canonical-SMILES
+BGC0001935	3,7-dihydroxytropolone	C1=CC(=O)C(=C(C(=C1)O)O)O	29654178	https://pubchem.ncbi.nlm.nih.gov/compound/128646#section=Canonical-SMILES
+BGC0001936	nodulisporic acid F	CC(=CCCC1(C2CCC3CC4=C(C3(C2(CCC1O)C)C)NC5=CC=CC=C45)C)C(=O)O	29283570	https://pubchem.ncbi.nlm.nih.gov/compound/11281984#section=Canonical-SMILES
+BGC0001937	tubercidin	C1=CN(C2=NC=NC(=C21)N)C3C(C(C(O3)CO)O)O	30153835	https://pubchem.ncbi.nlm.nih.gov/compound/6245#section=Canonical-SMILES
