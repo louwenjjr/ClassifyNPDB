@@ -26,7 +26,7 @@ def Settings():
         # Add a number to this set to skip that step of the pipeline.
         # Step 1 can not be skipped as its necessary for further steps
         # and it is also really short.
-        "SkipSteps": (0,2,3,4,5,6,7),
+        "SkipSteps": (1,2,3,),
 
         # The amount of BGCs that should be missing before the script will
         # assume it is at the end and stop:
