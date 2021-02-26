@@ -15,9 +15,11 @@ import time
 
 
 def Settings():
-    Workbase = '/mnt/scratch/louwe015/NPLinker/classifying/ClassifyNPDB/'
-    ScriptFolder = Workbase+'Scripts/'
-    InFilesFolder = Workbase+'InFiles/'
+    path_base = '/mnt/scratch/louwe015/NPLinker/classifying/'
+    Workbase = path_base+'results_ClassifyNPDB/'
+    repo_base = path_base+'ClassifyNPDB/'
+    ScriptFolder = repo_base+'Scripts/'
+    InFilesFolder = repo_base+'InFiles/'
     Start = time.time()
     StartTimestamp = time.strftime('%Y%m%d-%H%M')
 
@@ -26,7 +28,7 @@ def Settings():
         # Add a number to this set to skip that step of the pipeline.
         # Step 1 can not be skipped as its necessary for further steps
         # and it is also really short.
-        "SkipSteps": (1,2,3,),
+        "SkipSteps": (1,2,3,7),
 
         # The amount of BGCs that should be missing before the script will
         # assume it is at the end and stop:
